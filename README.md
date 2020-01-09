@@ -4,6 +4,10 @@ Empty Jamsite project. Provides basic package.json, .gitignore, etc.
 
 ## Install
 
+Install `jamsite-cli` globally:
+
+`npm i -g @jamsite/jamsite-cli`
+
 Install npm depencencies:
 
 `npm i`
