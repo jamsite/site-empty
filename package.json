@@ -1,7 +1,7 @@
 {
-  "name": "@jamsite/site-empty",
+  "name": "@jamsite/site-starter-empty",
   "version": "1.0.0",
-  "description": "Jamsite empty project.",
+  "description": "Jamsite empty starter site.",
   "main": "index.js",
   "scripts": {
     "start": "npx jamsite start",

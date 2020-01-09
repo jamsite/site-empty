@@ -1,6 +1,6 @@
-# site-empty
+# site-starter-empty
 
-Empty Jamsite project. Provides basic package.json, .gitignore, etc.
+Empty Jamsite starter site. Provides basic package.json, .gitignore, etc.
 
 ## Install
 
